@@ -1,0 +1,69 @@
+# Madina Lake – Never Take Us Alive
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.08] Sometimes I feel like I'm from another world
+[00:28.84] And everything I want in life seems impossible
+[00:34.54] Cause people they'll tear you apart
+[00:37.19] But in the bottom of our hearts
+[00:40.59] The dream's alive inside
+[00:43.65] And we won't forget
+[00:46.84] So we say...
+[00:52.84] 
+[00:48.21] You can't bleed
+[00:49.13] Can't touch
+[00:49.86] Can't take us down
+[00:52.95] (We run this town!)
+[00:54.45] We stand, we'll fight, set fires all night
+[01:15.45] 
+[00:58.80] You'll never take us alive
+[01:00.27] Wa ooh-ooh...
+[01:02.51] Wa ooh-ooh...
+[01:04.99] You'll never take us alive
+[01:05.07] Wa ooh-ooh...
+[01:08.69] Wa ooh-ooh...
+[01:10.67] You'll never take us alive
+[01:23.67] 
+[01:17.22] For the last time I'll give myself to the enemy
+[01:22.52] By letting their words just walk all over me
+[01:28.27] Cause people they'll tear you apart
+[01:31.16] If you are not like them
+[01:34.24] And we are different
+[01:44.24] 
+[01:37.36] Let the war begin
+[01:40.51] So we say...
+[01:41.86] You can't bleed
+[01:42.78] Can't touch
+[01:43.56] Can't take us down
+[01:46.45] (We run this town!)
+[01:48.03] We stand, we'll fight, set fires all night
+[02:09.03] 
+[01:52.24] You'll never take us alive
+[01:53.60] Wa ooh-ooh...
+[01:56.58] Wa ooh-ooh...
+[01:58.54] You'll never take us alive
+[01:59.79] Wa ooh-ooh...
+[02:02.34] Wa ooh-ooh...
+[02:04.28] You'll never take us alive
+[02:17.28] 
+[02:16.11] There's no fear inside
+[02:18.66] This is our time, no giving up
+[02:22.05] When we connect our hearts, to our minds
+[02:25.76] There's no stopping us
+[02:36.76] 
+[02:28.22] So we say...
+[02:29.75] You can't bleed
+[02:30.53] Can't touch
+[02:31.32] Can't take us down
+[02:34.24] (We run this town!)
+[02:35.70] We stand, we'll fight, set fires all night
+[02:56.70] 
+[02:40.00] You'll never take us alive
+[02:41.51] Wa ooh-ooh...
+[02:44.23] Wa ooh-ooh...
+[02:45.93] You'll never take us alive
+[02:47.79] Wa ooh-ooh...
+[02:50.68] Wa ooh-ooh...
+[02:52.07] You'll never take us alive
+```
