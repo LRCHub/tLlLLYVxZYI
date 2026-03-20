@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "Never Take Us Alive",
+  "base_artist": "Madina Lake",
+  "createdAt": "2026-03-20T14:52:31.399619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Take Us Alive",
+      "artist": "Madina Lake",
+      "has_synced": true,
+      "path": "select/01_Never_Take_Us_Alive_Madina_Lake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You'll Never Take Us Alive",
+      "artist": "Dwarves",
+      "has_synced": true,
+      "path": "select/02_You'll_Never_Take_Us_Alive_Dwarves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Take Us Alive",
+      "artist": "Madina Lake",
+      "has_synced": true,
+      "path": "select/03_Never_Take_Us_Alive_Madina_Lake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Take Us Alive",
+      "artist": "Broadway Calls",
+      "has_synced": false,
+      "path": "select/04_Never_Take_Us_Alive_Broadway_Calls.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You'll Never Take Us Alive",
+      "artist": "The Dwarves",
+      "has_synced": true,
+      "path": "select/05_You'll_Never_Take_Us_Alive_The_Dwarves.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Take Us Alive (album version)",
+      "artist": "Madina Lake",
+      "has_synced": true,
+      "path": "select/06_Never_Take_Us_Alive_(album_version)_Madina_Lake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Take Us Alive (From the Attic mix)",
+      "artist": "Madina Lake",
+      "has_synced": false,
+      "path": "select/07_Never_Take_Us_Alive_(From_the_Attic_mix)_Madina_Lake.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Take Us Alive [from the attic mix]",
+      "artist": "Madina Lake",
+      "has_synced": false,
+      "path": "select/08_Never_Take_Us_Alive_[from_the_attic_mix]_Madina_Lake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Take Us Alive",
+      "artist": "Madina Lake",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Take_Us_Alive_Madina_Lake.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Never Take Us Alive",
+      "artist": "Madina Lake",
+      "has_synced": true,
+      "path": "select/localdb_01_Never_Take_Us_Alive_Madina_Lake.lrc",
+      "repo_name": "hftF0F5a_SA"
+    }
+  ]
+}
